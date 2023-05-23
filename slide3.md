@@ -1,15 +1,18 @@
 layout: true
-class: img-right
-background-image: url(../../assets/images/backgrounds/HashiCorp-Content-bkg.png)
+class: compact
+background-image: url(../../assets/images/slide_templates/HashiCorp-ThankYou.png)
 background-size: cover
-name: slide3
+name: slide2
 
 ## Slide 3
 
-![scale:50%](./assets/logos/logo_terraform.png)
+Here's an example of incremental text (hit left to progress):
 
-This slide uses the `img-right` class and displays an image
+## hellow 
+
 
 ???
+
+Sample notes 
 
 ---
