@@ -16,7 +16,6 @@ count: true
 #### 4. Run the `build` command  
 
 
-
 ![:scale 95%](./assets/images/aws-ubuntu.pkr.hcl.png) 
 
 

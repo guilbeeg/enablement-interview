@@ -12,7 +12,6 @@ Packer is an open source tool for creating identical machine images for multiple
 
 
 
-
 --
 
 

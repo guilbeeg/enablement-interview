@@ -14,6 +14,7 @@ packer build aws-ubuntu.pkr.hcl
 terraform init 
 terraform apply
 ```
+
 Create a script to build & deploy your infrastructure, while leveraging Packer & Terraform
 
 ![:scale 95%](./assets/images/Packer-Demo-Result.png) 

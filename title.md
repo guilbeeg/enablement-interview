@@ -17,5 +17,3 @@ Breifly introduce the topics for todays session. (Packer & Terraform)
 
 How we'll leverage the 2 tools to create multi-cloud golden image pipelines with HCP Packer and Terraform Cloud.
 
-
-
