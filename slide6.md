@@ -22,4 +22,5 @@ Create a script to build & deploy your infrastructure, while leveraging Packer &
 
 ???
 
-Now that your AWS access keys are in Vault, you can use Terraform to generate dynamic AWS credentials that can be used by applications and services. Here's an example of how to create an install script and successfully building and AWS EBS Ec2.
+Scripts are commonly used to automate the creation of infrastructure by IT organizations. Here's an example of how to create a script and successfully building and AWS AMI & Ec2 resource. 
+
