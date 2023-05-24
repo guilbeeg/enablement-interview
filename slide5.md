@@ -29,5 +29,6 @@ Use the `aws_ami` data source when creating your ec2 instance
 
 ???
 
-The next step is to add your AWS access keys to Vault. This is necessary to use them dynamically later. Here's an example of how to add your AWS access keys to Vault using Terraform:
+Make sure that you filter for the AMI you've created. This is necessary to use them dynamically later in the aws_instance resource block. 
+
 
