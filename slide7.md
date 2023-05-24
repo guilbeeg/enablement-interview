@@ -20,5 +20,6 @@ count: true
 ???
 
 
-In conclusion, we've seen that combining Terraform and Vault can enhance security, automate processes, and provide better infrastructure management. By using both tools together, you can increase security, improve automation and efficiency, scale and audit your infrastructure, implement fine-grained access control, and adapt and extend. I encourage you to consider using Terraform and Vault together for managing your infrastructure and secrets in the cloud.
+Today we've seen that leveraging Packer and Terraform together can provide a number of benefits. Including improved infrastructure management, automation, stability and increased efficiency. I encourage you to consider using Packer and Terraform together for managing your infrastructure and system/container images for your production and lower level environments. Thanks your time, take care! 
+
 
