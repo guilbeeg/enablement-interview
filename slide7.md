@@ -14,7 +14,7 @@ count: true
 
 - Terraform automates infrastructure deployment and updates, while Packer manages the provisioning of instances from stable images, ensuring buggy software does not get deployed. 
   
-- HashiCorps approach is Vendor & Technology agnostic providing the flexebility to other cloud providers and services, ensuring consistency and efficiency.
+- HashiCorps approach is Vendor & Technology agnostic providing the flexibility to other cloud providers and services, ensuring consistency and efficiency.
 
 
 ???
